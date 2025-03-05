@@ -1,0 +1,207 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f7fc;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+    background-color: #5A9BD5;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
+}
+
+.download-btn {
+    background: white;
+    color: black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #62B1F6;
+    color: white;
+}
+
+.none__kol {
+    color: rgb(35, 78, 142);
+}
+
+.home_u {
+    margin-bottom: 20px;
+    color: rgb(35, 78, 142);
+}
+
+.home_c {
+    margin-bottom: 30px;
+    color: rgb(35, 78, 142);
+}
+
+.hero-content {
+    max-width: 500px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.btn {
+    background: yellow;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    gap: 25px;
+}
+
+.feature-box {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: #2196F3;
+    color: white;
+    padding: 30px;
+    width: 352px;
+    height: 189px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.koment {
+    color: #2196F3;
+    width: 387px;
+    height: 88px;
+    text-align: center;
+    padding-left: 550px;
+    left: 526px;
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 43.67px;
+}
+
+.games {
+    background: rgb(247, 187, 15);
+    width: 160px;
+    height: 8px;
+    margin-bottom: 60px;
+
+}
+.converting{
+    width: 560px;
+   height: 408px;
+    top: 1279px;
+    left: 160px;
+   border-radius: 8px;
+   padding-left: 50px;
+
+}
+.content{
+    display: flex;  
+}
+.voku{
+    padding-left: 100px;
+    color: #25468A;
+font-weight: 400;
+font-size: 15px;
+line-height: 21.49px;
+}
+.modern{
+    padding-left: 100px;
+    color: #1391CE;
+    width: 448px;
+    height: 43px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 32px;
+   line-height: 42.98px;
+}
+.toke{
+    color: #4F4F4F;
+    padding-left: 80px;
+    text-align: center;
+    width: 448px;
+   height: 144px;
+   font-family: Inter;
+   font-weight: 400;
+   font-size: 18px;
+   margin-bottom: 100px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f9ff;
+    color: #2a2a2a;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+h2 {
+    color: #0066cc;
+}
+.section {
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+}
+.checkmark::before {
+    content: '\2713';
+    color: #0066cc;
+    font-weight: bold;
+    margin-right: 10px;
+}
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+.komentb{
+    width: 30%;
+}
